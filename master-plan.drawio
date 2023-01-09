@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T21:08:44.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="IAX8Dy6FsQQASOB_u6kL" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T21:21:01.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.62" etag="GqMtKoKUz_KfRYEgUheg" version="20.8.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1418" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="3iCXqJCVR5GwxZgcVo5o-0" value="Generate synthetic dataset" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3iCXqJCVR5GwxZgcVo5o-1" value="Aquire training dataset&lt;br&gt;&lt;br&gt;Dunedin study&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="195" width="120" height="90" as="geometry" />
+        <mxCell id="3iCXqJCVR5GwxZgcVo5o-1" value="Aquire training dataset on people&lt;br&gt;&lt;br&gt;IAP?&lt;br&gt;CMS?&lt;br&gt;Dunedin study?" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="180" width="120" height="105" as="geometry" />
         </mxCell>
         <mxCell id="3iCXqJCVR5GwxZgcVo5o-3" value="Integrate natural language model" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="265" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3iCXqJCVR5GwxZgcVo5o-4" value="Ask questions and see what answers we get" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="195" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1pELzCH98_vrWslOKmcp-1" value="Aquire training dataset&lt;br&gt;&lt;br&gt;Benefits, rules etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="310" width="120" height="90" as="geometry" />
+        <mxCell id="1pELzCH98_vrWslOKmcp-1" value="Aquire training dataset on rules&lt;br&gt;&lt;br&gt;Benefits, rules etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="310" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
