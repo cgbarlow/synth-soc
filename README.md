@@ -1,6 +1,6 @@
 # synth-soc
 Synthetic Society, or synth-soc for short. Creating a synthetic dataset of humans and their history.
 
-An attempt to establish a rich synthetic dataset of people, their history and personal information.
+An attempt to establish a rich synthetic dataset of people, their associated personal information, life events, history.
 
 This may be used for R&D and application testing purposes where such a dataset would be useful.
