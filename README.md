@@ -5,7 +5,7 @@ An attempt to establish a rich synthetic dataset of people, their associated per
 
 This may be used for R&D and application testing purposes where such a dataset would be useful and where using real people's personal information may be problematic.
 
-The intent is to use the dataset to experiment with machine learning applications using techniques such as deep learning, generative adverserial networks and diffusion. The hope is to create a generalised data model which can be tailored and scaled to suit various applications.
+The intent is to use the dataset to experiment with machine learning applications using techniques such as deep learning, generative adverserial networks and diffusion. The hope is to create a generalised data model which can be tailored and scaled to support various applications.
 
 ### Applications
 #### Case Management Assistant
